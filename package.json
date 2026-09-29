@@ -17,7 +17,7 @@
     "http-errors": "^1.6.3",
     "lodash.random": "^3.2.0",
     "lodash.times": "^4.3.2",
-    "morgan": "~1.9.1",
+    "morgan": "~1.12.1",
     "pg": "^7.10.0",
     "pg-hstore": "^2.3.2",
     "sequelize": "^5.8.5"
